@@ -1,2 +1,2 @@
 # tech-theories
-this is my own website about informatik and mathematics
+this is my own website about computer sience and mathematics in svelte.
